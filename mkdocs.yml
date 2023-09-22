@@ -1,2 +1,7 @@
 site_name: Психология управления
 site_url: https://psychology.dyussenov.dev/
+
+nav:
+  - Главная: index.md
+  - Психология управления:
+    - Тема 1: management-psychology/topic1.md
