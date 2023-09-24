@@ -1,0 +1,3 @@
+# Тема 3
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPHFBE7mpO8n4pt96eSg-yJhbtmgzsAMKP0rtVFgJ8eZuq0elX4P09vR8S7Uk5GgB21g54v84E2eJM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
