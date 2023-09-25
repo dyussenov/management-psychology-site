@@ -3,7 +3,13 @@ site_url: https://psychology.dyussenov.dev/
 
 nav:
   - Главная: index.md
-  - Психология управления:
+  - Презентации:
     - Тема 1: management-psychology/topic1.md
     - Тема 2: management-psychology/topic2.md
     - Тема 3: management-psychology/topic3.md
+
+theme:
+  name: material
+  language: ru
+  palette:
+    primary: blue grey
