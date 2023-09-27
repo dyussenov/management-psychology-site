@@ -1,14 +1,15 @@
-# Тема 3. Теоретические и методологические основы психологии управления
+# Тема 10. Общение личности и групп
 
 ---
 
 ***Вопросы:***
 
-- Методологические подходы к управлению: процессный, системный, ситуационный. 
+- Понятие общения. Виды, формы и функции общения. Межличностное общение как предмет научного знания.
 
-- Принципы и методы психологии управления. 
+- Перцептивная сторона общения.
 
-- Основные характеристики управления.
+- Интерактивная сторона общения.
 
+- Коммуникативная сторона общения.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb2CM4d_7QgCtS-UhdGuivXXxWtIbVwO7e15X4jHFAtaMOsaPbzI0yj5wRqM_WhZKeh-H0ir5VQTBp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROPApU0nRoI3wSGHXE3enmfyTTOCo4cxirT7ecCLLJs_F5N5plGS-qFwPt4hzN1zVsByzRd62AKiHE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
