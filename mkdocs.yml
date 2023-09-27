@@ -4,9 +4,14 @@ site_url: https://psychology.dyussenov.dev/
 nav:
   - Главная: index.md
   - Презентации:
-    - Тема 1: management-psychology/topic1.md
-    - Тема 2: management-psychology/topic2.md
-    - Тема 3: management-psychology/topic3.md
+    - Тема 1. Введение в психологию управления: management-psychology/topic1.md
+    - Тема 2. История развития психологии управления: management-psychology/topic2.md
+    - Тема 3. Теоретические и методологические основы психологии управления: management-psychology/topic3.md
+    - Тема 4. Методы исследования в психологии управления: management-psychology/topic4.md
+    - Тема 5. Личность в управленческом взаимодействии: management-psychology/topic5.md
+    - Тема 6. Личность руководителя как субъекта управления организацией: management-psychology/topic6.md
+    - Тема 7. Психология принятия управленческих решений: management-psychology/topic7.md
+    - Тема 8. Мотивационные аспекты управления: management-psychology/topic8.md
 
 theme:
   name: material

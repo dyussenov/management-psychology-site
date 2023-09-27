@@ -1,3 +1,13 @@
-# Тема 1
+# Тема 1. Введение в психологию управления
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPHFBE7mpO8n4pt96eSg-yJhbtmgzsAMKP0rtVFgJ8eZuq0elX4P09vR8S7Uk5GgB21g54v84E2eJM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+---
+
+***Вопросы:***
+
+- Основные современные подходы к определению объекта, предмета, задач психологии управления. 
+
+- Психология управления как часть психологии труда.
+
+- Основные направления развития психологии управления в ХХI веке. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyb1chWEDyxhDqbFlnowIowdqRq4ACmaaWFS5qm0_Snj7Q6-TepJPakg7QAkV9ihANqb1lcJ6rK9k6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
