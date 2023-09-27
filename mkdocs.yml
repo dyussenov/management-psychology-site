@@ -24,3 +24,5 @@ theme:
   language: ru
   palette:
     primary: blue grey
+  features:
+    - navigation.sections
